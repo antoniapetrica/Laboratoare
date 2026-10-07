@@ -1,0 +1,15 @@
+/*  schimbă culoarea când pui cursorul pe un link din meniu */
+.meniu a:hover {
+    color: red; 
+}
+
+/*  Clasa activ pentru a evidenția pagina pe care te afli */
+.activ {
+    font-weight: bold; 
+    text-decoration: none; 
+}
+
+/* Regula comună pentru spațierea textului în meniu */
+.meniu {
+    padding: 8px;
+}
